@@ -56,6 +56,7 @@ Submit by doing 3 different commits for each topics
 
 Example:
 
+feat(sql): learned how to use SELECT, JOINs, and WHERE clauses to query data efficiently
 feat(sql): learned how to use SELECT, JOINs, and WHERE clauses to query data efficiently  
 feat(html): structuring content with semantic elements like `<header>`, `<section>`, and `<article>`  
 feat(css): styling layouts using Flexbox and Grid for responsive design
